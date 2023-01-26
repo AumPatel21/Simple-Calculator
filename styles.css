@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body {
+    background-color: #333;
+}
+
+input {
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 5px;
+    margin-left: 4px;
+    margin-right: auto;
+    text-align: right;
+    font-size: 35px;
+    color: black;
+    background-color: gray;
+    border: none;
+    height: 70px;
+    max-width: 282px;
+    max-height: 70px;
+}
+
+tr input {
+    color: cyan;
+}
+
+.base {
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #000;
+    width: 295px;
+    height: 450px;
+}
+
+.btn {
+    margin-top: 1px;
+    margin-bottom: 0;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    border: none;
+    cursor: pointer;
+}
+
+.mode {
+    font-size: 15px;
+    border-radius: 50px;
+    margin-left: 121.19px;
+}
+
+#operation {
+    color: white;
+    background-color: #212529;
+}
+
+#number {
+    color: white;
+    background-color: #343A40;
+}
+
+#number:hover, #operation:hover {
+    background-color: #284b63;
+    font-weight: 1000;
+}
+
+
+footer {
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
