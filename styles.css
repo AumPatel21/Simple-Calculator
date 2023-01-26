@@ -13,9 +13,10 @@ input {
     font-size: 35px;
     color: white;
     background-color: black;
-    border: none;
+    border: 1px solid;
+    border-color: gray;
     height: 70px;
-    max-width: 282px;
+    max-width: 280px;
     max-height: 70px;
 }
 
