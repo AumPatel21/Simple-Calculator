@@ -1,3 +1,3 @@
 # Simple-Calculator
 
- https://calculator.aumpatel16.repl.co
+https://aumpatel21.github.io/Projects/Calculator/
